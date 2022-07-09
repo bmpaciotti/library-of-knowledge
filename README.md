@@ -27,20 +27,20 @@ Notes, ideas, and quotes related to data science and cultural evolution
 
 ## Game Theory
 
-> *The first theme is that society is a game with rules, people are
+> The first theme is that society is a game with rules, people are
 > players in this game, and politics is the arena in which we affirm and
 > change these rules. Unlike the rules in standard game theory, however,
 > social rules are continually contested by players allying to scrap old
 > rules and create new rules to serve their purposes.*
 >
-> *Rule contestation is conflictual. People do not always agree on what
+> Rule contestation is conflictual. People do not always agree on what
 > rules should govern their lives. Societies usually have rules
 > concerning how the rules themselves get changed, but people do not
 > always play by the rules when they want to change the rules.
 > Individuality is central to our species because the rules do not
 > change through inexorable macrosocial forces or through a biochemical
 > dynamic of gene substitution. Rather, individuals band together to
-> change the rules.*
+> change the rules.
 >
 > *Everything distinctive about human social life flows from the fact
 > that we construct and then play social games. Other animals are
@@ -49,7 +49,7 @@ Notes, ideas, and quotes related to data science and cultural evolution
 > animals live in societies. But the rules of the game for nonhuman
 > societies are inscribed in the genome of the species, while ours is
 > not. Other animals do not change these rules to suit their purposes.
-> We do.*
+> We do.
 
 -   Herb Gintis
 
@@ -72,3 +72,11 @@ Notes, ideas, and quotes related to data science and cultural evolution
 > and pay forward for the next kid who comes along.
 
 - Elizabeth Warren
+
+## Change
+
+> And it never failed that during the dry years the people forgot about the rich years, and during the wet years they lost all memory of the dry years.  
+
+> It was always that way. 
+
+- John Steinbeck, East of Eden 
