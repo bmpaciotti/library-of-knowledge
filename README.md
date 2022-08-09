@@ -5,9 +5,57 @@
 Notes, ideas, and quotes related to data science and cultural evolution
 
 
-# Quotes 
+# Buddhism  
 
-## Science vs. Power 
+> "Just take it day by day"
+
+- Common saying, at least in the US
+
+#
+
+> If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever.  
+
+- Dalai Lama
+#
+
+> Remember, tomorrow is promised to no one.
+
+- Walter Payton
+
+#
+
+>When we meet real tragedy in life, we can react in two ways--either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength.
+
+- Dalai Lama
+
+#
+
+> Hope is important because it can make the present moment less difficult to bear. If we believe that tommorow will be better, we can bear a hardship today
+
+- Thich Nhat Hanh 
+
+#
+
+
+> There is a Taoist story of an old farmer who had worked his crops for many years. One day his horse ran away. Upon hearing the news, his neighbors came to visit. “Such bad luck,” they said sympathetically.
+
+> “Maybe,” the farmer replied.
+
+> The next morning the horse returned, bringing with it three other wild horses. “How wonderful,” the neighbors exclaimed.
+
+> “Maybe,” replied the old man.
+
+> The following day, his son tried to ride one of the untamed horses, was thrown, and broke his leg. The neighbors again came to offer their sympathy for what they called his “misfortune.”
+
+> “Maybe,” answered the farmer.
+
+> The day after, military officials came to the village to draft young men into the army. Seeing that the son's leg was broken, they passed him by. The neighbors congratulated the farmer on how well things had turned out.
+
+> “Maybe,” said the farmer.
+
+
+
+# Science vs. Power 
 
 > “THE DREAM of reason did not take power into account. The dream was
 > that reason, in the form of arts and sciences, would liberate humanity
@@ -25,7 +73,7 @@ Notes, ideas, and quotes related to data science and cultural evolution
 >
   - Paul Starr
 
-## Game Theory
+# Game Theory
 
 > The first theme is that society is a game with rules, people are
 > players in this game, and politics is the arena in which we affirm and
@@ -53,7 +101,7 @@ Notes, ideas, and quotes related to data science and cultural evolution
 
 -   Herb Gintis
 
-## Government 
+# Government 
 
 > There is nobody in this country who got rich on his own. Nobody.
 
@@ -73,10 +121,16 @@ Notes, ideas, and quotes related to data science and cultural evolution
 
 - Elizabeth Warren
 
-## Change
+# Change
 
 > And it never failed that during the dry years the people forgot about the rich years, and during the wet years they lost all memory of the dry years.  
 
 > It was always that way. 
 
 - John Steinbeck, East of Eden 
+
+# **Economics**
+
+## Inflation 
+
+- "See, what everyone is not including in the conversation is what really causes inflation, which is too many people with too much money chasing too few goods," Bill Smead, chief investment officer at Smead Capital Management, told CNBC's "Squawk Box Europe" on Thursday. 
