@@ -12,6 +12,11 @@ Notes, ideas, and quotes related to data science and cultural evolution
 - Common saying, at least in the US
 
 #
+> There are only two days in the year that nothing can be done. One is called Yesterday and the other is called Tomorrow. Today is the right day to live
+
+- Dalai Lama
+
+#
 
 > If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever.  
 
@@ -27,6 +32,11 @@ Notes, ideas, and quotes related to data science and cultural evolution
 >When we meet real tragedy in life, we can react in two ways--either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength.
 
 - Dalai Lama
+
+#
+>Be as careful as you can. Our minds are funny. Sometimes we are skeptical of things that are really worthwhile and completely accepting of things that we should avoid. Try to avoid extremes and follow the middle way, checking with wisdom wherever you go.
+
+- Lama Zopa Rinponche 
 
 #
 
