@@ -17,6 +17,11 @@ Notes, ideas, and quotes related to data science and cultural evolution
 - Dalai Lama
 
 #
+> If scientific analysis were conclusively to demonstrate certain claims in Buddhism to be false, then we must accept the findings of science and abandon those claims.
+
+- Dalai Lama
+
+#
 
 > If a problem is fixable, if a situation is such that you can do something about it, then there is no need to worry. If it's not fixable, then there is no help in worrying. There is no benefit in worrying whatsoever.  
 
